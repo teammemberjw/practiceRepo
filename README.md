@@ -3,11 +3,11 @@ NOTE: please don't alter this readme file!
 
 This repository is for us to practice on. It isn't the main project, it's just a test. Don't worry about messing it up!
 
-There is an html file that imports a few javascript files. The JS files will be empty, and must be filled by us:
+There is an html file that imports a few javascript files. The JS files will be empty, and must be filled by us (although they may not be empty by the time you clone the repository):
 
 
 
-The first javascript file should create some html elements and store them in variables.
+  The first javascript file should create some html elements and store them in variables.
 
   The second javascript file performs some action on the variables (like setting background colors, appending other elements)
 
