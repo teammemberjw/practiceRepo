@@ -19,7 +19,7 @@ The first javascript file should create some html elements and store them in var
 
 There is no specific final product we are looking for, so it will be a bit of a free for all.
 
-You can also try to fill out the html file with more content. (It will be mostly bare in the begining -- not even a "title" element).
+You can also try to fill out the html file with more content. (It will be mostly bare in the beginning -- not even a "title" element).
 
 Try out some of these things:
 
