@@ -5,13 +5,17 @@ This repository is for us to practice on. It isn't the main project, it's just a
 
 There is an html file that imports a few javascript files. The JS files will be empty, and must be filled by us:
 
-  The first javascript file should create some html elements and store them in variables.
+
+
+The first javascript file should create some html elements and store them in variables.
 
   The second javascript file performs some action on the variables (like setting background colors, appending other elements)
 
   The third appends them to the body of the html page.
 
   The fourth should contain a loop that animates them somehow.  
+
+
 
 There is no specific final product we are looking for, so it will be a bit of a free for all.
 
