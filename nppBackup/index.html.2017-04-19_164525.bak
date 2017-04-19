@@ -1,0 +1,11 @@
+<html lang="en">
+<head>
+<script src="jquery-3.2.0.min.js"></script>
+</head>
+<body>
+</body>
+<script src="elementCreator.js"></script>
+<script src="elementChanger.js"></script>
+<script src="elementAppender.js"></script>
+<script src="elementAnimator.js"></script>
+</html>
