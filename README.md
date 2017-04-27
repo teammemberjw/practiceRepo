@@ -23,20 +23,20 @@ You can also try to fill out the html file with more content. (It will be mostly
 
 Try out some of these things:
 
-*clone the repository
+* clone the repository
 
-*make changes to your local copy and commit your changes locally
+* make changes to your local copy and commit your changes locally
 
-*"squash" insignificant, small commits into larger ones
+* "squash" insignificant, small commits into larger ones
 
-*create branches
+* create branches
 
-*merge new branch into your master branch
+* merge new branch into your master branch
 
-*pull changes from the github repository into your local repository and manage conflicts
+* pull changes from the github repository into your local repository and manage conflicts
 
-*do pull-requests
+* do pull-requests
 
-*tag commits with names to be more easily identified and referenced
+* tag commits with names to be more easily identified and referenced
 
 Good luck! :+1:
